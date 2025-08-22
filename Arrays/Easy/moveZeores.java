@@ -18,6 +18,7 @@ public class moveZeores {
     }
     public static void main(String[] args) {
         int nums[] = {0, 0, 3, 5, 6};
-        moveZeroToEnd(nums);
+        moveZeroToEnd(nums); 
+        
     }
 }
