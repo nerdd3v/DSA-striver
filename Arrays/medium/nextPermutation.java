@@ -56,7 +56,7 @@ public class nextPermutation {
 
     public static void main(String[] args) {
         int nums[] = {2, 3, 5, 4, 1, 0, 0};
-        int nums2[] = {3,2,1,0};
+        // int nums2[] = {3,2,1,0};
         next(nums);
     }
 }
