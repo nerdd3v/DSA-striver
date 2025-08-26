@@ -28,7 +28,7 @@ public class sortArrayOf012 {
         System.out.println(Arrays.toString(nums));
     }
     public static void main(String[] args) {
-        int num [] = {1, 0, 2, 1, 0};
+        int num [] = {1, 0, 2, 1, 0,2};
         sort(num);
     }
 }
