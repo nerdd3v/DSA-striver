@@ -42,6 +42,6 @@ public class rearrageInPositiveNegativePair {
     }
     public static void main(String[] args) {
         int nums[] = {2, 4, 5, -1, -3, -4};
-        brute(nums);
+        rearrange(nums);
     }
 }
