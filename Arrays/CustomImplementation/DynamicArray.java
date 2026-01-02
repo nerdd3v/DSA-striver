@@ -18,11 +18,7 @@ public class DynamicArray {
     public void add(int val){
         if(isFull()){
             arrayExtender();
-            // idx++;
-            // arr[idx] = val;
-            // return;
         }
-
         idx ++;
         arr[idx] = val;
     }
