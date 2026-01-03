@@ -22,7 +22,8 @@ public class CustomQueue {
         if(last-1 == size){
             throw new Exception("overflow");
         }
-
+ 
+        
         last++;
         arr[last] = val;
     }
