@@ -23,7 +23,7 @@ public class CustomQueue {
             throw new Exception("overflow");
         }
  
-        
+
         last++;
         arr[last] = val;
     }
